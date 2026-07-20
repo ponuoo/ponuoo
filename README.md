@@ -30,5 +30,5 @@
   </p>
 
 <p align="center">
-  <img width="751" height="20" alt="Untitled400_20260719222222" src="https://github.com/user-attachments/assets/652bedbc-5b03-4070-a21f-f4a21026d5ef" />
+  <img width="100%" height="20" alt="Untitled400_20260719222222" src="https://github.com/user-attachments/assets/652bedbc-5b03-4070-a21f-f4a21026d5ef" />
 </p>
