@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="751" height="20" alt="Untitled400_20260719222222" src="https://github.com/user-attachments/assets/652bedbc-5b03-4070-a21f-f4a21026d5ef" />
+  <img width="100%" height="20" alt="Untitled400_20260719222222" src="https://github.com/user-attachments/assets/652bedbc-5b03-4070-a21f-f4a21026d5ef" />
 </p>
 
 <div align="center">
@@ -7,7 +7,7 @@
   ![](https://komarev.com/ghpvc/?username=ponuoo&label=CATS&color=869D80&abbreviated=true)
 
 <p align="center">
-  <img width="1329" height="960" alt="ponuoo" src="https://github.com/user-attachments/assets/41343ecc-a8b6-44bf-ad5b-4861f1ad06fc" />
+  <img width="100%" height="960" alt="ponuoo" src="https://github.com/user-attachments/assets/41343ecc-a8b6-44bf-ad5b-4861f1ad06fc" />
 </p>
 
 <p align="center">
