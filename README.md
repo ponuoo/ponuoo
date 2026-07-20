@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=ponuoo&label=CATS&color=869D80&abbreviated=true)
+  ![freaky](https://komarev.com/ghpvc/?username=ponuoo&label=CATS&color=869D80&abbreviated=true)
 
 <p align="center">
   <img width="100%" height="960" alt="ponuoo" src="https://github.com/user-attachments/assets/41343ecc-a8b6-44bf-ad5b-4861f1ad06fc" />
