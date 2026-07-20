@@ -7,7 +7,13 @@
 </p>
 
 <p align="center">
-  <img width="856" height="856" alt="ponuoo" src="https://github.com/user-attachments/assets/67283328-ec5f-498d-bbcd-b09d239e0f7c" />
+  <img width="1281" height="959" alt="ponuoo" src="https://github.com/user-attachments/assets/f995503f-56dd-4d79-ac27-891d955e6193" />
+</p>
+
+<p align="center">
+  $\color{#869D80}{\textsf{nine}}$
+  $\color{#D2D2B2}{\textsf{teen}}$
+  ⋮
 </p>
 
 <p align="center">
