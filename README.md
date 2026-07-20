@@ -11,7 +11,7 @@
   $\color{#869D80}{\textsf{nine}}$
   $\color{#D2D2B2}{\textsf{teen}}$
   ⋮
-  $\color{#869D80}{\textsf{shmg}}$
+  $\color{#869D80}{\textsf{swmg}}$
   $\color{#D2D2B2}{\textsf{forever}}$
   .ᐟ
 </p>
