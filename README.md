@@ -22,8 +22,7 @@
 
 <p align="center"
   
-  [.info](https://ponuoo.straw.page/)⠀ ⠀  ⠀ 
-[.prns](https://en.pronouns.page/@ponuoo)⠀ ⠀  ⠀ 
+   [.prns](https://en.pronouns.page/@ponuoo)⠀ ⠀  ⠀ 
 [.ata](https://ponuoo.atabook.org/)
 
 
